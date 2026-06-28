@@ -57,16 +57,3 @@ To test payments successfully on testnet:
 2.  Open Freighter → **Settings** (Gear Icon) → **Network** → Switch to **TESTNET**.
 3.  Connect your wallet to StellarVow, and click **🎁 Get Testnet XLM** to fund your test account.
 
----
-
-## 📸 Screenshots (White Belt Requirements)
-
-*Please replace these placeholders with your actual screenshots during submission.*
-
-### 1. Wallet Connected & Balance Displayed
-![Wallet Connected](https://raw.githubusercontent.com/kaankacar/stellar-build/main/assets/readme-demo-placeholder.png)
-*(Displays Freighter connection state, shortened address, and live XLM balance fetched from Horizon)*
-
-### 2. Successful Testnet Transaction Result
-![Transaction Confirmed](https://raw.githubusercontent.com/kaankacar/stellar-build/main/assets/readme-demo-placeholder.png)
-*(Displays the successful transaction result, hash, and Stellar.Expert verification link)*
